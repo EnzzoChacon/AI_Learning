@@ -26,20 +26,20 @@ An interactive terminal chatbot integrated with Google Gemini API. Built as part
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/EnzzoChacon/AI_Learning.git](https://github.com/EnzzoChacon/AI_Learning.git)
+   git clone https://github.com/EnzzoChacon/AI_Learning.git
    cd AI_Learning
-   
+
 Install dependencies:
 
-```Bash
+    ```bash
 pip install -r requirements.txt
-Set up environment variables:
+
+2. **Set up environment variables:**
 
 Create a .env file in the root directory following .env.example:
 
-```Snippet de código
 GEMINI_API_KEY=your_api_key_here
-Run the script:
 
-```Bash
+3. **Run the script:**
+
 python chatbot.py
